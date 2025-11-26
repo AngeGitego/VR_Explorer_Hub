@@ -1,0 +1,52 @@
+# =============== #
+# Unity Generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+
+# Crash reports
+sysinfo.txt
+
+# Unity cache
+UnityCache/
+
+# Visual Studio cache
+.vs/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.suo
+*.tmp
+*.userprefs
+
+# Rider cache
+.idea/
+*.sln.iml
+
+# Unity Collaborate files
+.collabignore
+
+# General OS junk
+.DS_Store
+Thumbs.db
+
+# Auto-generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Scriptable BuildPipeline cache
+ScriptableBuildPipelineCache/
+
+# Addressables
+Addressables*/Build*
+Addressables*/link*
